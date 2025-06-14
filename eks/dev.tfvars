@@ -38,7 +38,7 @@ addons = [
   },
   {
     name    = "coredns"
-    version = "v1.25.15-eksbuild.2"  # Use this supported version for Kubernetes 1.32
+    version = "v1.11.4-eksbuild.14"  # Use this supported version for Kubernetes 1.32
   },
   {
     name    = "kube-proxy"
