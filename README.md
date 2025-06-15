@@ -12,3 +12,5 @@
 
 - https://github.com/quickbooks2018/nginx-ingress?tab=readme-ov-file
 
+- https://medium.com/@kelvi030117/kubernetes-ingress-with-aws-alb-ingress-controller-a-complete-setup-guide-bdc5c7c9961b
+
