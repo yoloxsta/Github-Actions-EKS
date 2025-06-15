@@ -4,3 +4,8 @@
 
 - crate s3 bucket
 - create dynamodb 
+
+---
+
+- https://github.com/ravindrasinghh/Kubernetes-Playlist
+
