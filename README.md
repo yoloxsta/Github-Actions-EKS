@@ -10,3 +10,5 @@
 
 - https://github.com/ravindrasinghh/Kubernetes-Playlist
 
+- https://github.com/quickbooks2018/nginx-ingress?tab=readme-ov-file
+
