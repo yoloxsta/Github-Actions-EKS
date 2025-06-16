@@ -1,6 +1,6 @@
 ### EKS Clusters with Terraform and GitHub Actions
 
-#### Pre req for .tf state
+#### Pre req for store .tf state
 
 - crate s3 bucket
 - create dynamodb 
