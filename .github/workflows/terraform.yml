@@ -96,7 +96,7 @@ jobs:
       - name: Terraform Validate
         working-directory: eks
         run: terraform validate
-  Po Tat:
+  Po-Tat:
     runs-on: ubuntu-latest
     steps:
       - name: shar shay tr
