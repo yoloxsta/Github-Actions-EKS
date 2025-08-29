@@ -41,4 +41,6 @@ module "eks" {
   endpoint-public-access        = var.endpoint-public-access
 
   addons = var.addons
+  ec2_ami        = var.ec2_ami
+  ec2_key_name   = var.ec2_key_name
 }
