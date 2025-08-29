@@ -52,3 +52,18 @@ variable "max_capacity_on_demand" {}
 variable "desired_capacity_spot" {}
 variable "min_capacity_spot" {}
 variable "max_capacity_spot" {}
+
+####
+variable "ec2_instance_type" {
+  default = "t3.micro"
+}
+
+variable "ec2_ami" {
+  description = "AMI ID"
+  type        = string
+}
+
+variable "ec2_key_name" {
+  description = "SSH key pair name"
+  type        = string
+}

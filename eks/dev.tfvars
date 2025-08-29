@@ -49,3 +49,7 @@ addons = [
     version = "v1.38.1-eksbuild.1"  
   }
 ]
+
+ec2_instance_type = "t3.micro"
+ec2_ami          = "ami-0cfde0ea8edd312d4" # Ubuntu 20.04 (example, update per region)
+ec2_key_name     = "soetintaung"
